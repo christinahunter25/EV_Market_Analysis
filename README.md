@@ -19,3 +19,4 @@ Based on the results of the queries, seen below, the top 5 states EV charging in
 ![Table: EV and PHEV Adoption](Table%20EV%20and%20PHEV%20Adoption%20by%20State.png)
 
 ## Next Steps
+One limitation is that this recommendation is based on one year's worth of data. A better approach would be to gather multiple years' worth of data to see the trends over time for each state. This will give a better indication of adoption growth trends across all states and not just only those states with greater amount of vehicles at the current time. 
