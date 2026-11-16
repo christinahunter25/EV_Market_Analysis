@@ -10,7 +10,8 @@ Studies have shown that one obstacle to mass EV adoptions is the lack of chargin
 - SQL query to calculate the percentage of EV, PHEV, and percentage of both compared to the total vehicles.
 - Power BI report to visually show top percentage of EV and PHEV adoptions by state. 
 ## Skills
-
+- SQL: Add Columns, Aggregate Values
+- Power BI: Visualization, Conditional Formatting
 ## Results & Recommendations
 
 ## Next Steps
