@@ -11,7 +11,10 @@ Studies have shown that one obstacle to mass EV adoptions is the lack of chargin
 - Power BI report to visually show top percentage of EV and PHEV adoptions by state. 
 ## Skills
 - SQL: Add Columns, Aggregate Values
-- Power BI: Visualization, Conditional Formatting
+- Power BI: Visualization, Conditional Formatting, DAX
 ## Results & Recommendations
+Based on the results of the queries, seen below, the top 5 states EV charging infrastructure should be focused on is California, District of Columbia, Hawaii, Washington, and Oregon as they have the highest range of EV and PHEV adoption from 2.43% to 4.52%.
+
+
 
 ## Next Steps
