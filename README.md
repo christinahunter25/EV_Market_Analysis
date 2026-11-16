@@ -1,5 +1,5 @@
-#Exploratory Data Analysis for EV Adoption by State
+# Exploratory Data Analysis for EV Adoption by State
 
-##Process
+## Process
   -Changed fields with numbers to integer
   -Removed commas
