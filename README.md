@@ -15,7 +15,7 @@ Studies have shown that one obstacle to mass EV adoptions is the lack of chargin
 ## Results & Recommendations
 Based on the results of the queries, seen below, the top 5 states EV charging infrastructure should be focused on is California, District of Columbia, Hawaii, Washington, and Oregon as they have the highest range of EV and PHEV adoption from 2.43% to 4.52%.
 
-![Column Chart: % EV and PHEV Adoption over 1%](Percent_EV_and_PHEV_Adoption_over_1%.png)
+![Column Chart: % EV and PHEV Adoption over 1%](EV_Market_Analysis/Percent_EV_and_PHEV_Adoption_over_1%.png)
 ![Table: EV and PHEV Adoption](Table_EV_and_PHEV_Adoption_by_State.png)
 
 ## Next Steps
